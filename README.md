@@ -1,7 +1,7 @@
 <h1 align="center">
   Fast Node Manager (<code>fnm</code>)
   <img alt="Amount of downloads" src="https://img.shields.io/github/downloads/Schniz/fnm/total.svg?style=flat" />
-  <a href="https://github.com/Schniz/fnm/actions"><img src="https://img.shields.io/github/actions/workflow/status/Schniz/fnm/rust.yml?branch=master&label=workflow" alt="GitHub Actions workflow status" /></a>
+  <a href="https://github.com/Unity-Billal-mesloub/fnm/actions"><img src="https://img.shields.io/github/actions/workflow/status/Schniz/fnm/rust.yml?branch=master&label=workflow" alt="GitHub Actions workflow status" /></a>
 </h1>
 
 > 🚀 Fast and simple Node.js version manager, built in Rust
@@ -106,7 +106,7 @@ Then, [set up your shell for fnm](#shell-setup)
 
 #### Using a release binary (Linux/macOS/Windows)
 
-- Download the [latest release binary](https://github.com/Schniz/fnm/releases) for your system
+- Download the [latest release binary](https://github.com/Unity-Billal-mesloub/fnm/releases) for your system
 - Make it available globally on `PATH` environment variable
 - [Set up your shell for fnm](#shell-setup)
 
@@ -249,7 +249,7 @@ PRs welcome :tada:
 
 ```sh
 # Install Rust
-git clone https://github.com/Schniz/fnm.git
+git clone https://github.com/Unity-Billal-mesloub/fnm.git
 cd fnm/
 cargo build
 ```
